@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Cristian "kriM" Cantos
 - 👀 I’m interested in Security, Programming, Electronics, Hacking, Gaming... Everything related to a computer.
 - 🌱 I’m currently learning C and electronics 
-- 💞️ I’m looking to collaborate on ... propose me something
 - 📫 To reach me, on my twitter @_kkriM
 
 
