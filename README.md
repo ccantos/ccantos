@@ -1,6 +1,8 @@
 <h1 align="center">Hi , I'm kriware</h1>
 
+<p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=11F729&random=false&width=435&lines=0x414141414141414141414141414141414141414141414141414141414141414141414141414141414141414141414141414141414141" alt="Typing SVG" /></a>
+</p>
 
 I’m currently working at **@Layakk**
 
